@@ -1,0 +1,10 @@
+item {
+    name: "right drone",
+    id: 1,
+    display_name: "right drone"
+}
+item {
+    name: "wrong drone",
+    id: 2,
+    display_name: "wrong drone"
+}
